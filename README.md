@@ -2,7 +2,7 @@
 
 - 使用方法一
   - pip install -r requirements.txt
-  - playwright install 
+  - python -m playwright install
   - python3 jdScript.py
 
 - 使用方法二
